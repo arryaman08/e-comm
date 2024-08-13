@@ -1,5 +1,3 @@
-Below is a sample README file for your e-commerce platform project, using React as the frontend, Spring Boot as the backend, and H2 as the database.
-
 ---
 
 # E-commerce Platform
